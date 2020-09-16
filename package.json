@@ -1,0 +1,19 @@
+{
+  "name": "template-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.0.11",
+    "@angular/core": "^10.0.11"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/template-lib.umd.js",
+  "module": "fesm2015/template-lib.js",
+  "es2015": "fesm2015/template-lib.js",
+  "esm2015": "esm2015/template-lib.js",
+  "fesm2015": "fesm2015/template-lib.js",
+  "typings": "template-lib.d.ts",
+  "metadata": "template-lib.metadata.json",
+  "sideEffects": false
+}

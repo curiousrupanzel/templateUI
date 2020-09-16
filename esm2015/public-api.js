@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of template-lib
+ */
+export * from './lib/template-lib.service';
+export * from './lib/template-lib.component';
+export * from './lib/template-lib.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3RlbXBsYXRlLWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB0ZW1wbGF0ZS1saWJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi90ZW1wbGF0ZS1saWIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90ZW1wbGF0ZS1saWIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3RlbXBsYXRlLWxpYi5tb2R1bGUnO1xuIl19
